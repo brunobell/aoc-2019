@@ -1,0 +1,8 @@
+# Rust ignore
+**/target/
+**/Cargo.lock
+**/*.rs.bk
+# Python ignore
+**/__pycache__
+# IDE ignore
+**/.idea
